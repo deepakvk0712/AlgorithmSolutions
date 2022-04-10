@@ -27,7 +27,8 @@ int maxSubarray(vector<int> A){
 }
 
 int main(){
-    vector<int> Inp {-2,1,-3,4,-1,2,1,-5,4};
+    // vector<int> Inp {-2,1,-3,4,-1,2,1,-5,4};
+    vector<int> Inp {-2,1};
     int opInc = maxSubarray(Inp);
 
     cout << opInc << endl;
