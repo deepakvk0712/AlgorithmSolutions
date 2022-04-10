@@ -13,3 +13,14 @@ I have tried to solve each algorithm that I studied in my own way and tried to o
 * Counting Sort algorithm
 
 
+# Coding questions of each Data Structure solved:
+
+1. String and Arrays:
+    - Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? (C102)
+
+    - Check Permutation: Given two strings, write a method to decide if one is a permutation of the other. (C102)
+
+
+2. Linked List:
+    - 
+
